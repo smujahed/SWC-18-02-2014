@@ -2,4 +2,18 @@ Hills are smaller than mountains
 This is some truth after a lie has been committed
 Some other change....
 
-Here I create conflict...
+Here is my change.
+
+I have resolved the conflict! 
+
+
+Have a balloon
+   
+   * *
+  *   *
+   * *
+    |
+    |
+    |
+    |
+    |
